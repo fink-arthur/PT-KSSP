@@ -2,7 +2,7 @@
 
 ## How to launch
 
-1. Unzip the data file in src/gtfs/data
+1. Unzip the data files in src/gtfs/data
 
 2. You can use RoutingApplication to launch random queries on the current network or you can use BenchmarkingKsspApplication to launch the queries used for the benchmark in our paper.
 
